@@ -12,5 +12,7 @@ const data = {
   instagram: "facebook.com/mohd.sulaiman.sudirman",
   goodreads: "goodreads.com/sulaiman_sudirman",
   twitter: "twitter.com/natsu90",
-  spotify: "open.spotify.com/user/natsu901"
+  spotify: "open.spotify.com/user/natsu901",
+  nl: "nomadlist.com/@natsu90",
+  nomadlist: "nomadlist.com/@natsu90"
 }
