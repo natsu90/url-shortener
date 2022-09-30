@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="data.js"></script>
+    <script>
+      const path = window.location.pathname.split('/')[1];
+      if (!data.hasOwnProperty(path)) window.location.replace("https://sulai.mn");
+      window.location.replace("https://" + data[path]);
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
