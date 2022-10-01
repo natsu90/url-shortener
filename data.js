@@ -16,5 +16,6 @@ const data = {
   nl: "nomadlist.com/@natsu90",
   nomadlist: "nomadlist.com/@natsu90",
   youtube: "youtube.com/user/natsu902",
+  yt: "youtube.com/user/natsu902",
   pinterest: "pinterest.com/natsu90",
 }
