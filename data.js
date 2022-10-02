@@ -18,4 +18,5 @@ const data = {
   youtube: "youtube.com/user/natsu902",
   yt: "youtube.com/user/natsu902",
   pinterest: "pinterest.com/natsu90",
+  applemusic: "music.apple.com/profile/natsu90",
 }
