@@ -20,4 +20,5 @@ const data = {
   pinterest: "pinterest.com/natsu90",
   applemusic: "music.apple.com/profile/natsu90",
   reddit: "reddit.com/user/natsu901",
+  hn: "news.ycombinator.com/user?id=natsu90",
 }
