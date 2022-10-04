@@ -4,8 +4,10 @@
     <script src="data.js"></script>
     <script>
       const path = window.location.pathname.split('/')[1];
-      if (!data.hasOwnProperty(path)) window.location.href = "/";
-      window.location.replace("https://" + data[path]);
+      if (!data.hasOwnProperty(path)) 
+        window.location.href = "/";
+      else
+        window.location.replace("https://" + data[path]);
     </script>
   </head>
   <body>
