@@ -9,7 +9,7 @@ const data = {
   fb: "facebook.com/mohd.sulaiman.sudirman",
   facebook: "facebook.com/mohd.sulaiman.sudirman",
   ig: "instagram.com/mohd.sulaiman.sudirman",
-  instagram: "facebook.com/mohd.sulaiman.sudirman",
+  instagram: "instagram.com/mohd.sulaiman.sudirman",
   goodreads: "goodreads.com/sulaiman_sudirman",
   twitter: "twitter.com/natsu90",
   spotify: "open.spotify.com/user/natsu901",
