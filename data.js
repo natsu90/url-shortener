@@ -24,4 +24,5 @@ const data = {
   source: "github.com/natsu90/url-shortener",
   src: "github.com/natsu90/url-shortener",
   ge15: "docs.google.com/forms/d/e/1FAIpQLSezFjJjHDq13BFXdWvf8oX9SErWyPaFxRAKvEL0T3zsRME9vQ/viewform",
+  sell: "trademe.co.nz/Members/Listings.aspx?member=6226371",
 }
