@@ -25,4 +25,5 @@ const data = {
   src: "github.com/natsu90/url-shortener",
   ge15: "docs.google.com/forms/d/e/1FAIpQLSezFjJjHDq13BFXdWvf8oX9SErWyPaFxRAKvEL0T3zsRME9vQ/viewform",
   sell: "trademe.co.nz/Members/Listings.aspx?member=6226371",
+  map: "nomadlist.com/@natsu90?map_only=true&key=d5935414cd87c9643e56df5c1669aa02"
 }
