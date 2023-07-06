@@ -1,4 +1,5 @@
 const data = {
+  home: "sulai.mn",
   li: "linkedin.com/in/sulaiman-sudirman",
   linkedin: "linkedin.com/in/sulaiman-sudirman",
   gh: "github.com/natsu90",
