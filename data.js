@@ -28,5 +28,6 @@ const data = {
   sell: "trademe.co.nz/Members/Listings.aspx?member=6226371",
   map: "nomadlist.com/@natsu90?map_only=true&key=d5935414cd87c9643e56df5c1669aa02",
   garmin: "connect.garmin.com/modern/profile/c64ccf11-b800-4549-a12e-5d6e0dfbc57d",
-  ngl: "ngl.link/mohd.sulaiman.sudirman"
+  ngl: "ngl.link/mohd.sulaiman.sudirman",
+  coffee: "buymeacoffee.com/sulaiman.sudirman"
 }
