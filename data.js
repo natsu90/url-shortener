@@ -30,5 +30,6 @@ const data = {
   garmin: "connect.garmin.com/modern/profile/c64ccf11-b800-4549-a12e-5d6e0dfbc57d",
   ngl: "ngl.link/mohd.sulaiman.sudirman",
   coffee: "buymeacoffee.com/sulaiman.sudirman",
-  duolingo: "duolingo.com/profile/natsu9011"
+  duolingo: "duolingo.com/profile/natsu9011",
+  trademe: "trademe.co.nz/a/marketplace/electronics-photography/video-cameras/action-cameras/listing/4753378762"
 }
