@@ -31,5 +31,5 @@ const data = {
   ngl: "ngl.link/mohd.sulaiman.sudirman",
   coffee: "buymeacoffee.com/sulaiman.sudirman",
   duolingo: "duolingo.com/profile/natsu9011",
-  trademe: "trademe.co.nz/a/marketplace/electronics-photography/video-cameras/action-cameras/listing/4753378762"
+  trademe: "trademe.co.nz/a/marketplace/electronics-photography/video-cameras/action-cameras/listing/4765019660"
 }
