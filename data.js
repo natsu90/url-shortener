@@ -32,5 +32,6 @@ const data = {
   duolingo: "duolingo.com/profile/natsu9011",
   trademe: "trademe.co.nz/a/marketplace/electronics-photography/video-cameras/action-cameras/listing/4765019660",
   pay: "paypal.me/sulaimansudirman",
-  strava: "strava.com/athletes/sulaiman-sudirman"
+  strava: "strava.com/athletes/sulaiman-sudirman",
+  wise: "wise.com/pay/me/sulaimans13"
 }
