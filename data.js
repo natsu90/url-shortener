@@ -31,5 +31,6 @@ const data = {
   coffee: "buymeacoffee.com/sulaiman.sudirman",
   duolingo: "duolingo.com/profile/natsu9011",
   trademe: "trademe.co.nz/a/marketplace/electronics-photography/video-cameras/action-cameras/listing/4765019660",
-  pay: "paypal.me/sulaimansudirman"
+  pay: "paypal.me/sulaimansudirman",
+  strava: "strava.com/athletes/sulaiman-sudirman"
 }
