@@ -13,6 +13,7 @@ const data = {
   instagram: "instagram.com/mohd.sulaiman.sudirman",
   goodreads: "goodreads.com/sulaiman_sudirman",
   twitter: "twitter.com/natsu90",
+  x: "x.com/natsu90",
   spotify: "open.spotify.com/user/natsu901",
   nomads: "nomads.com/@natsu90",
   youtube: "youtube.com/user/natsu902",
