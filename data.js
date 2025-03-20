@@ -35,5 +35,5 @@ const data = {
   pay: "paypal.me/sulaimansudirman",
   strava: "strava.com/athletes/sulaiman-sudirman",
   wise: "wise.com/pay/me/sulaimans13",
-  wa: wa.me/60172792409
+  wa: "wa.me/60172792409"
 }
